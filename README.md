@@ -1,4 +1,4 @@
-# hello-world
+# Raspberrypi
 first usage
 
 #connecting ultrasonic seensor to raspberry pi
