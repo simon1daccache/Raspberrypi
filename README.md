@@ -1,6 +1,5 @@
 # Raspberrypi
 
-testing the code
 
 #connecting ultrasonic seensor to raspberry pi
 
